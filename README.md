@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/master/img/cover.jpg)
+
 <!--
 **AnthonyOuzhene/AnthonyOuzhene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
