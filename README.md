@@ -4,20 +4,20 @@ Hello, I'm a french web developer. I made different works throughout my life as 
 Finally, I live my passion in the numeric world with my skills as a web dvelopper backend & a freelance SEO writer.
 I discovered the code not that long ago but I find it very interesting in all the possibilities which are available.
 
+![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code.gif)
+
 ## Backend :
 - PHP
 - 🔭 Symfony Framework
 - Lumen Laravel
 
 
-## FRONTEND
+## Frontend
 - 🚅 JS Vanilla
 - REACT (soon) !
 
 ## CMS
 - 🌱 I’m currently learning Wordpress !
-
-![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code.gif)
 
 ## 📫 Get in touch...
 
