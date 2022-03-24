@@ -6,7 +6,7 @@ I discovered the code not that long ago but I find it very interesting in all th
 
 ## Backend :
 - PHP
-<img src="https://img.icons8.com/color/48/000000/symfony.png"/> 🔭 Symfony Framework
+- <img src="https://img.icons8.com/color/48/000000/symfony.png"/> 🔭 Symfony Framework
 - Lumen Laravel
 
 
