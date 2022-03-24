@@ -5,9 +5,10 @@ Finally, I live my passion in the numeric world with my skills as a web dveloppe
 I discovered the code not that long ago but I find it very interesting in all the possibilities which are available.
 
 ## Backend :
-- 🔭 Symfony framework
+- PHP
+<img src="https://img.icons8.com/color/48/000000/symfony.png"/> 🔭 Symfony Framework
 - Lumen Laravel
-- PHP Vanilla
+
 
 ## FRONTEND
 - 🚅 JS Vanilla
