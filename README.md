@@ -21,5 +21,8 @@ I discovered the code not that long ago but I find it very interesting in all th
 
 ## 📫 Get in touch...
 
+DiscordAnthonyO.#2017 | LinkedIN
+
+
 - https://github.com/AnthonyOuzhene
 - https://www.linkedin.com/feed/
