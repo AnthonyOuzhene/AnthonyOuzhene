@@ -1,4 +1,4 @@
-# Anthony Ouzhene | Developer Fullstack 💻👋🚀
+# Anthony Ouzhene | Fullstack developer 💻👋🚀
 
 Hello, I'm a french web developer. I made different works throughout my life as project manager or a gateaway transit agent.
 Finally, I live my passion in the numeric world with my skills as a web developper fullstack & a freelancer SEO writer.
