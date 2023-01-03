@@ -10,16 +10,16 @@ The art of coding opens a lot of way to express myself. I will go on to find out
 
 
 ## Backend :
-- PHP
+- PHP / MySQL
 - 🔭 Symfony Framework
 
 ## Frontend
 - JS Vanilla
 - Vue.js
-- 🌱 REACT (soon) !
+- REACT
 
 ## CMS
--  Wordpress
+-  Wordpress (Themes & Plugins custom)
 
 ## 📫 Get in touch...
 
