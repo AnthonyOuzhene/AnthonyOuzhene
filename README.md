@@ -3,7 +3,7 @@
 Hello, I'm a french web developer. I made different works throughout my life as project manager or a gateaway transit agent.
 Finally, I live my passion in the numeric world with my skills as a web developper fullstack & a freelancer SEO writer.
 
-The art of coding opens a lot of way to express myself. I will go on to find out more technologies to open my wings and fly away !
+The art of coding opens a lot of way to express myself. I will go on to find out more technologies to spread my wings and fly away !
 
 
 ![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif)
