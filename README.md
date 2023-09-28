@@ -1,4 +1,7 @@
 # Anthony Ouzhene | Développeur Fullstack - Back-end 
+
+![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif)
+
 # 👋 Bienvenue sur mon profil GitHub !
 
 ## 👨‍💻 À propos de moi
@@ -28,6 +31,4 @@ N'hésitez pas à me contacter pour discuter de projets passionnants ou de colla
 - [Portfolio](https://anthonyouzhene.com/)
 
 Happy coding! 🚀
-
-![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif)
 
