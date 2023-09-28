@@ -29,5 +29,7 @@ N'hésitez pas à me contacter pour discuter de projets passionnants ou de colla
 - 💼 [Profil LinkedIn](https://www.linkedin.com/in/anthony-ouzhene/)
 - 🚀 [Portfolio](https://anthonyouzhene.com/)
 
+La programmation résout 90% de nos problèmes ; les 10% restants ? Pizza, blagues de développeurs, et un soupçon de Ctrl+Z (Cmd+Z pour les 🍎) pour sauver la journée. 😄
+
 Happy coding!
 
