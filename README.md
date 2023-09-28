@@ -10,7 +10,7 @@ La programmation résout 90% de nos problèmes ; les 10% restants ? Pizza, blagu
 
 ## 👨‍💻 À propos de moi
 Je suis un développeur fullstack passionné, avec une préférence marquée pour le backend.
-Mon parcours professionnel (transport, projet, SEO) et mes projets personnels m'ont permis de développer des compétences solides dans la conception et la mise en œuvre de solutions robustes côté serveur.
+Mon parcours professionnel (transport, projet, SEO) et mes projets personnels m'ont permis de développer des compétences solides dans la conception et la mise en œuvre de solutions robustes côté serveur et client.
 
 ## 📱 Technologies préférées
 Mon langage de prédilection est PHP, et j'apprécie particulièrement travailler avec le framework 🇫🇷 Symfony pour créer des applications web puissantes et évolutives. Mon expérience inclut également une formation continue sur Drupal, un CMS flexible et performant.
