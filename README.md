@@ -25,9 +25,9 @@ Mon langage de prédilection est PHP, et j'apprécie particulièrement travaille
 ## 📫 Contact
 N'hésitez pas à me contacter pour discuter de projets passionnants ou de collaborations potentielles. Mon objectif est de contribuer de manière significative au monde du développement, en mettant l'accent sur la qualité, la performance et l'innovation.
 
-- [Liste des Repositories GitHub](https://github.com/AnthonyOuzhene?tab=repositories)
-- [Profil LinkedIn](https://www.linkedin.com/in/anthony-ouzhene/)
-- [Portfolio](https://anthonyouzhene.com/)
+- 🌐 [Liste des Repositories GitHub](https://github.com/AnthonyOuzhene?tab=repositories)
+- 💼 [Profil LinkedIn](https://www.linkedin.com/in/anthony-ouzhene/)
+- 🚀 [Portfolio](https://anthonyouzhene.com/)
 
 Happy coding! 🚀
 
