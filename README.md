@@ -6,6 +6,8 @@
 
 # 👋 Bienvenue sur mon profil GitHub !
 
+La programmation résout 90% de nos problèmes ; les 10% restants ? Pizza, blagues de développeurs, et un soupçon de Ctrl+Z (Cmd+Z pour les 🍎) pour sauver la journée. 😄
+
 ## 👨‍💻 À propos de moi
 Je suis un développeur fullstack passionné, avec une préférence marquée pour le backend.
 Mon parcours professionnel (transport, projet, SEO) et mes projets personnels m'ont permis de développer des compétences solides dans la conception et la mise en œuvre de solutions robustes côté serveur.
@@ -28,8 +30,6 @@ N'hésitez pas à me contacter pour discuter de projets passionnants ou de colla
 - 🌐 [Liste des Repositories GitHub](https://github.com/AnthonyOuzhene?tab=repositories)
 - 💼 [Profil LinkedIn](https://www.linkedin.com/in/anthony-ouzhene/)
 - 🚀 [Portfolio](https://anthonyouzhene.com/)
-
-La programmation résout 90% de nos problèmes ; les 10% restants ? Pizza, blagues de développeurs, et un soupçon de Ctrl+Z (Cmd+Z pour les 🍎) pour sauver la journée. 😄
 
 Happy coding!
 
