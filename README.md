@@ -1,6 +1,8 @@
 # Anthony Ouzhene | Développeur Fullstack - Back-end 
 
-![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif)
+<div align="center">
+  <img src="https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif" alt="Cover">
+</div>
 
 # 👋 Bienvenue sur mon profil GitHub !
 
