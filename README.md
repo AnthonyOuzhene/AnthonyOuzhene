@@ -1,6 +1,6 @@
 # Anthony Ouzhene | Développeur Fullstack - Back-end 
 
-<div align="center"; style="border-radius":50px>
+<div align="center">
   <img src="https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif" alt="Cover">
 </div>
 
