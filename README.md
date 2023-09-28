@@ -29,5 +29,5 @@ N'hésitez pas à me contacter pour discuter de projets passionnants ou de colla
 - 💼 [Profil LinkedIn](https://www.linkedin.com/in/anthony-ouzhene/)
 - 🚀 [Portfolio](https://anthonyouzhene.com/)
 
-Happy coding! 🚀
+Happy coding!
 
