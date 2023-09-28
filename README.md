@@ -20,9 +20,6 @@ Mon langage de prédilection est PHP, et j'apprécie particulièrement travaille
 - **Base de données:** MySQL 🐬
 - **Outils de développement:** Git, Composer, npm/yarn, Bootstrap
 
-## 👨‍🎓 Formation
-[Développeur web Fullstack - O'clock : certification développeur web et web mobile ]
-
 ## 📫 Contact
 N'hésitez pas à me contacter pour discuter de projets passionnants ou de collaborations potentielles. Mon objectif est de contribuer de manière significative au monde du développement, en mettant l'accent sur la qualité, la performance et l'innovation.
 
