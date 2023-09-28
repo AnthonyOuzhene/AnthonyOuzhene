@@ -1,30 +1,33 @@
-# Anthony Ouzhene | Fullstack - Backend developer 💻👋🚀
+# Anthony Ouzhene | Développeur Fullstack - Back-end 
+# 👋 Bienvenue sur mon profil GitHub !
 
-Hello, I'm a french web developer. I made different works throughout my life as project manager, gateaway transit agent or even SEO freelance writer.
+## 👨‍💻 À propos de moi
+Je suis un développeur fullstack passionné, avec une préférence marquée pour le backend.
+Mon parcours professionnel (transport, projet, SEO) et mes projets personnels m'ont permis de développer des compétences solides dans la conception et la mise en œuvre de solutions robustes côté serveur.
 
-I was formed to become a fullstack developper but I totally have fun in progressing as a backend Dev.
-I particularly like using the (cocorico) french framework Symfony.
+## 📱 Technologies préférées
+Mon langage de prédilection est PHP, et j'apprécie particulièrement travailler avec le framework 🇫🇷 Symfony pour créer des applications web puissantes et évolutives. Mon expérience inclut également une formation continue sur Drupal, un CMS flexible et performant.
 
-Rencently, I discovered the CMS Drupal which combines WordPress & Symfony. I'm looking forward to go deep into this new discovery.
+## 🖥️ Compétences techniques
+- **Langages de programmation:** PHP 🐘, JavaScript 
+- **Frameworks:** Symfony 🎼
+- **CMS:** WordPress, Drupal 🛠️
+- **Technologies front-end:** Vue.js, JavaScript 
+- **API:** RESTful API 🔌
+- **Base de données:** MySQL 🐬
+- **Outils de développement:** Git, Composer, npm/yarn, Bootstrap
 
-![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif)
+## 👨‍🎓 Formation
+[Développeur web Fullstack - O'clock : certification développeur web et web mobile ]
 
-
-## Backend :
--  PHP
--  Symfony Framework
--  CMS WordPress (Themes & Plugins custom)
--  CMF Drupal
-  
-- MySQL
-- REST API
-
-## Frontend
-- JS Vanilla
-- Vue.js
-
-## 📫 Get in touch...
+## 📫 Contact
+N'hésitez pas à me contacter pour discuter de projets passionnants ou de collaborations potentielles. Mon objectif est de contribuer de manière significative au monde du développement, en mettant l'accent sur la qualité, la performance et l'innovation.
 
 - [Liste des Repositories GitHub](https://github.com/AnthonyOuzhene?tab=repositories)
 - [Profil LinkedIn](https://www.linkedin.com/in/anthony-ouzhene/)
 - [Portfolio](https://anthonyouzhene.com/)
+
+Happy coding! 🚀
+
+![Cover](https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif)
+
