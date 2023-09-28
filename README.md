@@ -24,6 +24,15 @@ Mon langage de prédilection est PHP, et j'apprécie particulièrement travaille
 - **Base de données:** MySQL 🐬
 - **Outils de développement:** Git, Composer, npm/yarn, Bootstrap
 
+## 🤝 Soft Skills
+- calme comme un merge réussi, même lorsqu'il y a des conflits à résoudre ;
+- à l'écoute comme un gestionnaire d'événements JavaScript ;
+- curieux comme un chat devant une boîte mystérieuse ;
+- sociable comme un café entre collègues ;
+- motivé comme un lève-tôt le vendredi; 
+- fiable comme une documentation bien rédigée ;
+- collaboratif comme un projet open source en plein essor.
+
 ## 📫 Contact
 N'hésitez pas à me contacter pour discuter de projets passionnants ou de collaborations potentielles. Mon objectif est de contribuer de manière significative au monde du développement, en mettant l'accent sur la qualité, la performance et l'innovation.
 
