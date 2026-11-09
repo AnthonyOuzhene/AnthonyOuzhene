@@ -1,51 +1,55 @@
-# Anthony Ouzhene | Développeur Fullstack - Back-end 
+# Anthony OUZHENE
+### Développeur Fullstack — Backend & Architectures Web
 
-<div align="center">
-  <img src="https://github.com/AnthonyOuzhene/AnthonyOuzhene/blob/main/img/code2.gif" alt="Cover">
-</div>
+> *"Travailler sérieusement sans se prendre au sérieux."*
 
-# 👋 Bienvenue sur mon profil GitHub !
+---
 
-La programmation résout 90% de nos problèmes ; les 10% restants ? Pizza, blagues de développeurs, et un soupçon de Ctrl+Z (Cmd+Z pour les 🍎) pour sauver la journée. 😄
+## 🚀 Profil
 
-## 👨‍💻 À propos de moi
-Je suis un développeur fullstack passionné, avec une préférence marquée pour le backend.
-Mon parcours professionnel (transport, projet, SEO) et mes projets personnels m'ont permis de développer des compétences solides dans la conception et la mise en œuvre de solutions robustes côté serveur et client.
+Développeur fullstack avec une spécialisation **backend**. Expérience sur des projets concrets dans le **transport**, la **gestion de projet** et le **SEO** — de la conception d'API à la mise en production.
 
-## 📱 Technologies préférées
-Mon langage de prédilection est PHP, et j'apprécie particulièrement travailler avec le framework 🇫🇷 Symfony pour créer des applications web puissantes et évolutives. Mon expérience inclut également une formation continue sur Drupal, un CMS flexible et performant.
+---
 
-## 🖥️ Compétences techniques
-- **Langages de programmation:** PHP 🐘, JavaScript 
-- **Frameworks:** Symfony 🎼
-- **CMS:** WordPress, Drupal 🛠️
-- **Technologies front-end:** Vue.js, JavaScript 
-- **API:** RESTful API 🔌
-- **Base de données:** MySQL 🐬
-- **Outils de développement:** Git, Composer, npm/yarn, Bootstrap
+## ⚙️ Compétences techniques
 
-## 🤝 Soft Skills
-- calme comme un merge réussi, même lorsqu'il y a des conflits à résoudre ;
-- à l'écoute comme un gestionnaire d'événements JavaScript ;
-- curieux comme un chat devant une boîte mystérieuse ;
-- sociable comme un café entre collègues ;
-- motivé comme un lève-tôt le vendredi; 
-- fiable comme une documentation bien rédigée ;
-- collaboratif comme un projet open source en plein essor.
+**Backend**
+`PHP` `Symfony` `Node.js` `RESTful API` `MySQL`
 
-## 📫 Contact
+**Frontend**
+`JavaScript` `Vue.js` `Bootstrap`
 
-```php
-<?php
-// Happy coding !
-( aimez_cette_description() || ! laissez_un_message() ) ? laissez_un_message() : envoyez_blague_tech_pour_fun();
-?>
+**CMS**
+`WordPress` `Drupal`
+
+**Outils & DevOps**
+`Git` `Composer` `npm / yarn`
+
+---
+
+## 💡 Soft skills
+   Soft skill | Description |
+ |---|---|
+ | 🧘 **Serein** | Même quand les merges conflictent |
+ | 👂 **À l'écoute** | Des utilisateurs comme de l'équipe |
+ | 🔍 **Curieux** | Veille tech active, toujours en apprentissage |
+ | 🤝 **Collaboratif** | L'open source, ça se construit à plusieurs |
+ | ✅ **Fiable** | Code documenté, délais respectés |
+
+---
+
+## 📬 Contact
+
+```js
+if (vousAvezUnProjet || uneQuestion) {
+  envoyezUnMessage(); // réponse rapide garantie
+} else {
+  passezUneBonneJournee(); // ☕
+}
 ```
 
-- 🌐 [Liste des Repositories GitHub](https://github.com/AnthonyOuzhene?tab=repositories)
-- 💼 [Profil LinkedIn](https://www.linkedin.com/in/anthony-ouzhene/)
-- 🚀 [Portfolio](https://anthonyouzhene.com/)
+🌐 <a href="https://github.com/AnthonyOuzhene?tab=repositories" target="_blank">Liste des Repositories GitHub</a> · 💼 <a href="https://www.linkedin.com/in/anthony-ouzhene/" target="_blank">Profil LinkedIn</a> · 🚀 <a href="https://anthonyouzhene.com/" target="_blank">Portfolio</a>
 
+---
 
-
-
+> *"Quand le sage montre la doc, l'apprenti copie-colle sans lire."*
